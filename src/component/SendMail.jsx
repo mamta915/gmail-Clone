@@ -33,7 +33,7 @@ const SendMail = () => {
         setFormData({
             to: "",
             subject: "",
-            message: ""
+            message: "",
         })
     }
     return (
